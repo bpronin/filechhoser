@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">filechooser</string>
+    <string name="list_empty">Empty</string>
+    <string name="action_create_folder">Create folder</string>
+    <string name="action_rename_file">Rename file</string>
+    <string name="action_delete_file">Delete file</string>
+    <string name="action_rename_folder">Rename folder</string>
+    <string name="action_delete_folder">Delete folder</string>
+    <string name="cannot_rename_file">Cannot rename file</string>
+    <string name="cannot_rename_folder">Cannot rename folder</string>
+    <string name="rename_folder_message">Rename folder to</string>
+    <string name="rename_file_message">Rename file to</string>
+    <string name="create_file">New file</string>
+    <string name="action_create">Create</string>
+    <string name="create_folder">New folder</string>
+    <string name="cannot_create_folder">Cannot create folder</string>
+    <string name="cannot_delete_folder_message">Cannot delete folder</string>
+    <string name="cannot_delete_file_message">Cannot delete file</string>
+    <string name="delete_folder_confirm_message">Delete folder?</string>
+    <string name="delete_file_confirm_message">Delete file?</string>
+
+</resources>
